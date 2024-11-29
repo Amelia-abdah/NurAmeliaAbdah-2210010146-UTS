@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author User
+ * @author Nur Amelia Abdah 2210010146
  */
 public class NoteManager {
     private ArrayList<note> notes;
