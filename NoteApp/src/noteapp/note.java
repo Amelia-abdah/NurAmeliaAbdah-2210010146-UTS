@@ -6,7 +6,7 @@ package noteapp;
 
 /**
  *
- * @author User
+ * @author Nur Amelia Abdah 2210010146
  */
 public class note {
     private String title;
